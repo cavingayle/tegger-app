@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useCallback } from "react";
 import axios from "axios";
-import "./App.css";
 import VideoPageContainer from "./components/VideoPageContainer";
 
 function App() {
