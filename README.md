@@ -5,8 +5,8 @@ The app includes all the requested functionally.
 
 ## To get started
 
-Provide Youtube API key on the backend.
-Run npm i
-Start the server
+1. Provide Youtube API key on the backend.
+2. Run npm i
+3. Start the server
 
 
