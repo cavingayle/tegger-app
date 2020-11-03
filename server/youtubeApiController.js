@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const API_KEY = "";
+const API_KEY = "AIzaSyCyoU5_m6jeJJatlGNOzgymWMegF7Cdwp0";
 const CHANNEL_ID = "UCFbNIlppjAuEX4znoulh0Cw";
 
 module.exports = {
